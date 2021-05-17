@@ -1,11 +1,20 @@
-## Course content of Python Fundamentals for Data Science
+## Course content of Subject
 
-### [Course Playlist](https://youtube.com/playlist?list=PLIb1xe_9tuHMBYXYaVlTAUOEmyng00Sle)
+### [Lecture resources sec 1](/lectures_sec1)
 
-### [Lecture resources](/lectures)
+### [Lecture resources sec 2](/lectures_sec2)
 
-### [Exercises](/exercises)
+### [Lecture resources sec 3](/lectures_sec3)
 
-### [Quizzes](/quizzes)
+### [Lecture resources sec 4](/lectures_sec4)
+
+### [Homework](/homework)
+
+### [Current Assignments Quizzes and Exam Papers](/current_assignment_quiz_exam)
+
+### [Previous year's Assignments Quizzes and Exam Papers](/old_assignment_quiz_exam)
+
+### [Student Notes](/student_notes)
 
 ### [Books](/books)
+
